@@ -1,0 +1,190 @@
+"filename";"DB_ID";"ExperimentID";"Tissue";"SubType";"ClinicalGroup"
+"GSM11805.CEL.gz";"GSM11805";"GSE781";"kidney";"normal";NA
+"GSM11814.CEL.gz";"GSM11814";"GSE781";"kidney";"cancer";NA
+"GSM11823.CEL.gz";"GSM11823";"GSE781";"kidney";"normal";NA
+"GSM11830.CEL.gz";"GSM11830";"GSE781";"kidney";"cancer";NA
+"GSM12067.CEL.gz";"GSM12067";"GSE781";"kidney";"cancer";NA
+"GSM12075.CEL.gz";"GSM12075";"GSE781";"kidney";"normal";NA
+"GSM12079.CEL.gz";"GSM12079";"GSE781";"kidney";"cancer";NA
+"GSM12098.CEL.gz";"GSM12098";"GSE781";"kidney";"normal";NA
+"GSM12105.CEL.gz";"GSM12105";"GSE781";"kidney";"cancer";NA
+"GSM12268.CEL.gz";"GSM12268";"GSE781";"kidney";"normal";NA
+"GSM12270.CEL.gz";"GSM12270";"GSE781";"kidney";"cancer";NA
+"GSM12283.CEL.gz";"GSM12283";"GSE781";"kidney";"normal";NA
+"GSM12298.CEL.gz";"GSM12298";"GSE781";"kidney";"cancer";NA
+"GSM12300.CEL.gz";"GSM12300";"GSE781";"kidney";"normal";NA
+"GSM12399.CEL.gz";"GSM12399";"GSE781";"kidney";"cancer";NA
+"GSM12444.CEL.gz";"GSM12444";"GSE781";"kidney";"normal";NA
+"GSM21203.cel.gz";"GSM21203";"GSE1297";"hippocampus";"severe";NA
+"GSM21204.cel.gz";"GSM21204";"GSE1297";"hippocampus";"incipient";NA
+"GSM21205.cel.gz";"GSM21205";"GSE1297";"hippocampus";"incipient";NA
+"GSM21206.cel.gz";"GSM21206";"GSE1297";"hippocampus";"severe";NA
+"GSM21207.cel.gz";"GSM21207";"GSE1297";"hippocampus";"severe";NA
+"GSM21208.cel.gz";"GSM21208";"GSE1297";"hippocampus";"severe";NA
+"GSM21209.cel.gz";"GSM21209";"GSE1297";"hippocampus";"moderate";NA
+"GSM21210.cel.gz";"GSM21210";"GSE1297";"hippocampus";"moderate";NA
+"GSM21212.cel.gz";"GSM21212";"GSE1297";"hippocampus";"severe";NA
+"GSM21213.cel.gz";"GSM21213";"GSE1297";"hippocampus";"severe";NA
+"GSM21214.cel.gz";"GSM21214";"GSE1297";"hippocampus";"moderate";NA
+"GSM21215.cel.gz";"GSM21215";"GSE1297";"hippocampus";"normal";NA
+"GSM21216.cel.gz";"GSM21216";"GSE1297";"hippocampus";"incipient";NA
+"GSM21217.cel.gz";"GSM21217";"GSE1297";"hippocampus";"normal";NA
+"GSM21218.cel.gz";"GSM21218";"GSE1297";"hippocampus";"normal";NA
+"GSM21219.cel.gz";"GSM21219";"GSE1297";"hippocampus";"normal";NA
+"GSM21220.cel.gz";"GSM21220";"GSE1297";"hippocampus";"normal";NA
+"GSM21221.cel.gz";"GSM21221";"GSE1297";"hippocampus";"normal";NA
+"GSM21222.cel.gz";"GSM21222";"GSE1297";"hippocampus";"incipient";NA
+"GSM21223.cel.gz";"GSM21223";"GSE1297";"hippocampus";"moderate";NA
+"GSM21224.cel.gz";"GSM21224";"GSE1297";"hippocampus";"moderate";NA
+"GSM21225.cel.gz";"GSM21225";"GSE1297";"hippocampus";"incipient";NA
+"GSM21226.cel.gz";"GSM21226";"GSE1297";"hippocampus";"normal";NA
+"GSM21227.cel.gz";"GSM21227";"GSE1297";"hippocampus";"moderate";NA
+"GSM21228.cel.gz";"GSM21228";"GSE1297";"hippocampus";"incipient";NA
+"GSM21229.cel.gz";"GSM21229";"GSE1297";"hippocampus";"severe";NA
+"GSM21230.cel.gz";"GSM21230";"GSE1297";"hippocampus";"moderate";NA
+"GSM21231.cel.gz";"GSM21231";"GSE1297";"hippocampus";"normal";NA
+"GSM21232.cel.gz";"GSM21232";"GSE1297";"hippocampus";"normal";NA
+"GSM21233.cel.gz";"GSM21233";"GSE1297";"hippocampus";"incipient";NA
+"GSM87058.cel.gz";"GSM87058";"GSE3790";"cerebellum";"normal";NA
+"GSM87064.cel.gz";"GSM87064";"GSE3790";"cerebellum";"normal";NA
+"GSM87065.cel.gz";"GSM87065";"GSE3790";"cerebellum";"normal";NA
+"GSM87066.cel.gz";"GSM87066";"GSE3790";"cerebellum";"normal";NA
+"GSM87071.cel.gz";"GSM87071";"GSE3790";"cerebellum";"normal";NA
+"GSM87072.cel.gz";"GSM87072";"GSE3790";"cerebellum";"normal";NA
+"GSM87073.cel.gz";"GSM87073";"GSE3790";"cerebellum";"normal";NA
+"GSM87074.cel.gz";"GSM87074";"GSE3790";"cerebellum";"normal";NA
+"GSM87075.cel.gz";"GSM87075";"GSE3790";"cerebellum";"normal";NA
+"GSM87085.cel.gz";"GSM87085";"GSE3790";"cerebellum";"normal";NA
+"GSM87086.cel.gz";"GSM87086";"GSE3790";"cerebellum";"normal";NA
+"GSM87087.cel.gz";"GSM87087";"GSE3790";"cerebellum";"normal";NA
+"GSM87088.cel.gz";"GSM87088";"GSE3790";"cerebellum";"normal";NA
+"GSM87089.cel.gz";"GSM87089";"GSE3790";"cerebellum";"normal";NA
+"GSM87090.CEL.gz";"GSM87090";"GSE3790";"cerebellum";"normal";NA
+"GSM87091.cel.gz";"GSM87091";"GSE3790";"cerebellum";"normal";NA
+"GSM87092.cel.gz";"GSM87092";"GSE3790";"cerebellum";"normal";NA
+"GSM87093.cel.gz";"GSM87093";"GSE3790";"cerebellum";"normal";NA
+"GSM87094.cel.gz";"GSM87094";"GSE3790";"cerebellum";"normal";NA
+"GSM87095.cel.gz";"GSM87095";"GSE3790";"cerebellum";"normal";NA
+"GSM87096.cel.gz";"GSM87096";"GSE3790";"cerebellum";"normal";NA
+"GSM87097.cel.gz";"GSM87097";"GSE3790";"cerebellum";"normal";NA
+"GSM87098.cel.gz";"GSM87098";"GSE3790";"cerebellum";"normal";NA
+"GSM87099.cel.gz";"GSM87099";"GSE3790";"cerebellum";"normal";NA
+"GSM87100.cel.gz";"GSM87100";"GSE3790";"cerebellum";"normal";NA
+"GSM87101.cel.gz";"GSM87101";"GSE3790";"cerebellum";"normal";NA
+"GSM87102.cel.gz";"GSM87102";"GSE3790";"cerebellum";"normal";NA
+"GSM146778.CEL.gz";"GSM146778";"GSE6344";"kidney";"normal";NA
+"GSM146779.CEL.gz";"GSM146779";"GSE6344";"kidney";"tumor- stage 1";NA
+"GSM146781.CEL.gz";"GSM146781";"GSE6344";"kidney";"tumor- stage 1";NA
+"GSM146782.CEL.gz";"GSM146782";"GSE6344";"kidney";"normal";NA
+"GSM146783.CEL.gz";"GSM146783";"GSE6344";"kidney";"tumor- stage 1";NA
+"GSM146785.CEL.gz";"GSM146785";"GSE6344";"kidney";"tumor- stage 1";NA
+"GSM146787.CEL.gz";"GSM146787";"GSE6344";"kidney";"tumor- stage 1";NA
+"GSM146788.CEL.gz";"GSM146788";"GSE6344";"kidney";"tumor- stage 2";NA
+"GSM146789.CEL.gz";"GSM146789";"GSE6344";"kidney";"normal";NA
+"GSM146791.CEL.gz";"GSM146791";"GSE6344";"kidney";"tumor- stage 2";NA
+"GSM146793.CEL.gz";"GSM146793";"GSE6344";"kidney";"tumor- stage 2";NA
+"GSM146795.CEL.gz";"GSM146795";"GSE6344";"kidney";"tumor- stage 2";NA
+"GSM146797.CEL.gz";"GSM146797";"GSE6344";"kidney";"tumor- stage 2";NA
+"GSM92240.CEL.gz";"GSM92240";"GSE4045";"colon";"tumor";NA
+"GSM92241.CEL.gz";"GSM92241";"GSE4045";"colon";"tumor";NA
+"GSM92242.CEL.gz";"GSM92242";"GSE4045";"colon";"tumor";NA
+"GSM92243.CEL.gz";"GSM92243";"GSE4045";"colon";"tumor";NA
+"GSM92244.CEL.gz";"GSM92244";"GSE4045";"colon";"tumor";NA
+"GSM92245.CEL.gz";"GSM92245";"GSE4045";"colon";"tumor";NA
+"GSM92247.CEL.gz";"GSM92247";"GSE4045";"colon";"tumor";NA
+"GSM92248.CEL.gz";"GSM92248";"GSE4045";"colon";"tumor";NA
+"GSM92249.CEL.gz";"GSM92249";"GSE4045";"colon";"tumor";NA
+"GSM92250.CEL.gz";"GSM92250";"GSE4045";"colon";"tumor";NA
+"GSM92253.CEL.gz";"GSM92253";"GSE4045";"colon";"tumor";NA
+"GSM92254.CEL.gz";"GSM92254";"GSE4045";"colon";"tumor";NA
+"GSM92255.CEL.gz";"GSM92255";"GSE4045";"colon";"tumor";NA
+"GSM92256.CEL.gz";"GSM92256";"GSE4045";"colon";"tumor";NA
+"GSM92257.CEL.gz";"GSM92257";"GSE4045";"colon";"tumor";NA
+"GSM92258.CEL.gz";"GSM92258";"GSE4045";"colon";"tumor";NA
+"GSM92259.CEL.gz";"GSM92259";"GSE4045";"colon";"tumor";NA
+"GSM92260.CEL.gz";"GSM92260";"GSE4045";"colon";"tumor";NA
+"GSM92261.CEL.gz";"GSM92261";"GSE4045";"colon";"tumor";NA
+"GSM92262.CEL.gz";"GSM92262";"GSE4045";"colon";"tumor";NA
+"GSM92263.CEL.gz";"GSM92263";"GSE4045";"colon";"tumor";NA
+"GSM92264.CEL.gz";"GSM92264";"GSE4045";"colon";"tumor";NA
+"GSM92265.CEL.gz";"GSM92265";"GSE4045";"colon";"tumor";NA
+"GSM92266.CEL.gz";"GSM92266";"GSE4045";"colon";"tumor";NA
+"GSM92267.CEL.gz";"GSM92267";"GSE4045";"colon";"tumor";NA
+"GSM92268.CEL.gz";"GSM92268";"GSE4045";"colon";"tumor";NA
+"GSM92269.CEL.gz";"GSM92269";"GSE4045";"colon";"tumor";NA
+"GSM92270.CEL.gz";"GSM92270";"GSE4045";"colon";"tumor";NA
+"GSM92271.CEL.gz";"GSM92271";"GSE4045";"colon";"tumor";NA
+"GSM92272.CEL.gz";"GSM92272";"GSE4045";"colon";"tumor";NA
+"GSM92273.CEL.gz";"GSM92273";"GSE4045";"colon";"tumor";NA
+"GSM92274.CEL.gz";"GSM92274";"GSE4045";"colon";"tumor";NA
+"GSM92275.CEL.gz";"GSM92275";"GSE4045";"colon";"tumor";NA
+"GSM92276.CEL.gz";"GSM92276";"GSE4045";"colon";"tumor";NA
+"GSM35979.cel.gz";"GSM35979.cel";"GSE2004";"kidney";"normal";NA
+"GSM35980.cel.gz";"GSM35980.cel";"GSE2004";"kidney";"normal";NA
+"GSM35981.cel.gz";"GSM35981.cel";"GSE2004";"kidney";"normal";NA
+"GSM35982.cel.gz";"GSM35982.cel";"GSE2004";"liver";"normal";NA
+"GSM35983.cel.gz";"GSM35983.cel";"GSE2004";"liver";"normal";NA
+"GSM35984.cel.gz";"GSM35984.cel";"GSE2004";"liver";"normal";NA
+"GSM35991.cel.gz";"GSM35991.cel";"GSE2004";"kidney";"normal";NA
+"GSM35992.cel.gz";"GSM35992.cel";"GSE2004";"kidney";"normal";NA
+"GSM35993.cel.gz";"GSM35993.cel";"GSE2004";"kidney";"normal";NA
+"GSM35994.cel.gz";"GSM35994.cel";"GSE2004";"liver";"normal";NA
+"GSM35995.cel.gz";"GSM35995.cel";"GSE2004";"liver";"normal";NA
+"GSM35996.cel.gz";"GSM35996.cel";"GSE2004";"liver";"normal";NA
+"GSM36003.cel.gz";"GSM36003.cel";"GSE2004";"kidney";"normal";NA
+"GSM44675.CEL.gz";"GSM44675.CEL";"GSE2361";"kidney";"normal";NA
+"GSM44689.CEL.gz";"GSM44689.CEL";"GSE2361";"cerebellum";"normal";NA
+"GSM44697.CEL.gz";"GSM44697.CEL";"GSE2361";"hippocampus";"normal";NA
+"GSM44702.CEL.gz";"GSM44702.CEL";"GSE2361";"liver";"normal";NA
+"GSM181429.CEL.gz";"GSM181429.CEL";"GSE7473";"liver";"hepatocellular adenoma";NA
+"GSM181430.CEL.gz";"GSM181430.CEL";"GSE7473";"liver";"hepatocellular adenoma";NA
+"GSM181431.CEL.gz";"GSM181431.CEL";"GSE7473";"liver";"hepatocellular adenoma";NA
+"GSM181432.CEL.gz";"GSM181432.CEL";"GSE7473";"liver";"hepatocellular adenoma";NA
+"GSM181433.CEL.gz";"GSM181433.CEL";"GSE7473";"liver";"hepatocellular adenoma";NA
+"GSM18917.CEL.gz";"GSM18917";"GSE1133";"cerebellum";"normal";NA
+"GSM18918.CEL.gz";"GSM18918";"GSE1133";"cerebellum";"normal";NA
+"GSM18953.CEL.gz";"GSM18953";"GSE1133";"liver";"normal";NA
+"GSM18954.CEL.gz";"GSM18954";"GSE1133";"liver";"normal";NA
+"GSM18955.CEL.gz";"GSM18955";"GSE1133";"kidney";"normal";NA
+"GSM18956.CEL.gz";"GSM18956";"GSE1133";"kidney";"normal";NA
+"GSM296875.CEL.gz";"GSM296875";"GSE11691;GSE11769";"endometrium";"normal";NA
+"GSM296876.CEL.gz";"GSM296876";"GSE11691;GSE11769";"endometrium";"normal";NA
+"GSM296878.CEL.gz";"GSM296878";"GSE11691;GSE11769";"endometrium";"normal";NA
+"GSM296879.CEL.gz";"GSM296879";"GSE11691;GSE11769";"endometrium";"normal";NA
+"GSM296880.CEL.gz";"GSM296880";"GSE11691;GSE11769";"endometrium";"normal";NA
+"GSM296881.CEL.gz";"GSM296881";"GSE11691;GSE11769";"endometrium";"normal";NA
+"GSM296882.CEL.gz";"GSM296882";"GSE11691;GSE11769";"endometrium";"normal";NA
+"GSM296883.CEL.gz";"GSM296883";"GSE11691;GSE11769";"endometrium";"normal";NA
+"GSM296886.CEL.gz";"GSM296886";"GSE11691;GSE11769";"endometrium";"endometriosis, broard ligament";NA
+"GSM296887.CEL.gz";"GSM296887";"GSE11691;GSE11769";"endometrium";"endometriosis, broard ligament";NA
+"GSM296888.CEL.gz";"GSM296888";"GSE11691;GSE11769";"endometrium";"endometriosis, broard ligament";NA
+"GSM296889.CEL.gz";"GSM296889";"GSE11691;GSE11769";"endometrium";"endometriosis, broard ligament";NA
+"GSM296890.CEL.gz";"GSM296890";"GSE11691;GSE11769";"endometrium";"endometriosis, broard ligament";NA
+"GSM296891.CEL.gz";"GSM296891";"GSE11691;GSE11769";"endometrium";"endometriosis, broard ligament";NA
+"GSM296892.CEL.gz";"GSM296892";"GSE11691;GSE11769";"endometrium";"endometriosis, broard ligament";NA
+"GSM298747.CEL.gz";"GSM298747";"GSE11819";"liver";"ihca";"Sample: CHC364T;;Gender: female;;Age at onset: 44 years;;Disease: Inflammatory hepatocellular adenomas (IHCA);;Tissue: tumor liver."
+"GSM298748.CEL.gz";"GSM298748";"GSE11819";"liver";"ihca";"Sample: CHC382T;;Gender: female;;Age at onset: 45 years;;Disease: Inflammatory hepatocellular adenomas (IHCA);;Tissue: tumor liver."
+"GSM298749.CEL.gz";"GSM298749";"GSE11819";"liver";"ihca";"Sample: CHC471T;;Gender: female;;Age at onset: 30 years;;Disease: Inflammatory hepatocellular adenomas (IHCA);;Tissue: tumor liver."
+"GSM298750.CEL.gz";"GSM298750";"GSE11819";"liver";"ihca";"Sample: CHC466T;;Gender: female;;Age at onset: 50 years;;Disease: Inflammatory hepatocellular adenomas (IHCA);;Tissue: tumor liver."
+"GSM299110.CEL.gz";"GSM299110";"GSE11819";"liver";"ihca";"Sample: CHC364T;;Gender: female;;Age at onset: 44 years;;Disease: Inflammatory hepatocellular adenomas (IHCA);;Tissue: tumor liver."
+"GSM299111.CEL.gz";"GSM299111";"GSE11819";"liver";"ihca";"Sample: CHC471T;;Gender: female;;Age at onset: 30 years;;Disease: Inflammatory hepatocellular adenomas (IHCA);;Tissue: tumor liver."
+"GSM299112.CEL.gz";"GSM299112";"GSE11819";"liver";"ihca";"Sample: CHC466T;;Gender: female;;Age at onset: 50 years;;Disease: Inflammatory hepatocellular adenomas (IHCA);;Tissue: tumor liver."
+"GSM299113.CEL.gz";"GSM299113";"GSE11819";"liver";"ihca";"Sample: CHC382T;;Gender: female;;Age at onset: 45 years;;Disease: Inflammatory hepatocellular adenomas (IHCA);;Tissue: tumor liver."
+"GSM299244.CEL.gz";"GSM299244";"GSE11819";"liver";"normal";"Sample: CHC357N;;Gender: female;;Age at onset: 28 years;;Disease: hepatocellular adenoma;;Tissue: non tumoral liver."
+"GSM299245.CEL.gz";"GSM299245";"GSE11819";"liver";"normal";"Sample: CHC535N;;Gender: female;;Age at onset: 30 years;;Disease: hepatocellular adenoma;;Tissue: non tumoral liver."
+"GSM299246.CEL.gz";"GSM299246";"GSE11819";"liver";"normal";"Sample: CHC562N;;Gender: female;;Age at onset: 33 years;;Disease: hepatocellular adenoma;;Tissue: non tumoral liver."
+"GSM299247.CEL.gz";"GSM299247";"GSE11819";"liver";"normal";"Sample: CHC573N;;Gender: female;;Age at onset: 28 years;;Disease: hepatocellular adenoma;;Tissue: non tumoral liver."
+"GSM322969.CEL.gz";"GSM322969";"GSE12907";"cerebellum";"pilocytic astrocytoma";"Juvenile pilocytic astrocytoma;Age: 6 Sex: F;Location: cerebellum;Histopathology: nd"
+"GSM323054.CEL.gz";"GSM323054";"GSE12907";"cerebellum";"pilocytic astrocytoma";"Juvenile pilocytic astrocytoma;Age: 3 Sex: F;Location: cerebellum;Histopathology: conspicuous vascular proliferation in most areas"
+"GSM323523.CEL.gz";"GSM323523";"GSE12907";"cerebellum";"pilocytic astrocytoma";"Juvenile pilocytic astrocytoma;Age: 6 Sex: F;Location: cerebellum;Histopathology: Ki-67 (4-5%)"
+"GSM323524.CEL.gz";"GSM323524";"GSE12907";"cerebellum";"pilocytic astrocytoma";"Juvenile pilocytic astrocytoma;Age: 13 Sex: F;Location: cerebellum;Histopathology: variable cellularity, prominent blood vessels"
+"GSM323527.CEL.gz";"GSM323527";"GSE12907";"cerebellum";"pilocytic astrocytoma";"Juvenile pilocytic astrocytoma;Age: 9 Sex: F;Location: cerebellum;Histopathology: highly vascular with vascular proliferation noted"
+"GSM323565.CEL.gz";"GSM323565";"GSE12907";"cerebellum";"normal";"Normal Cerebellar tissue;Age: 8 Sex: F;Location: cerebellum;Histopathology: normal"
+"GSM323566.CEL.gz";"GSM323566";"GSE12907";"cerebellum";"normal";"normal cerebellar tissue;Age: 16 Sex: M;Location: cerebellum;Histopatholgy: normal"
+"GSM323567.CEL.gz";"GSM323567";"GSE12907";"cerebellum";"normal";"Normal cerebellar tissue;Age: 63 Sex: M;Location: cerebellum;Histopathology: normal"
+"GSM246492.CEL.gz";"GSM246492";"GSE9773";"placenta";"first trimester placental organ explants grown on matrigel";"Dissected mesenchymal villous tissue of early pregnancy was arranged radially on 80 μl drops of growth-factor-reduced Matrigel™ (BD, Bedford, MA) in 24 well plates (SFM; DMEM:Ham's F12 (Gibco) 1:1, supplemented with 100 µg/ml streptomycin/penicillin (Gibco) and incubated for 4 hours at 37°C, 5% CO2 to allow attachment. Wells were then carefully flooded with 500 µl SFM, incubated at 37°C, 5% CO2 and subsequent growth characteristics were monitored by light microscopy. Total RNA or tissue sections were  prepared after 72 hours of incubation. "
+"GSM246493.CEL.gz";"GSM246493";"GSE9773";"placenta";"first trimester placental organ explants grown on matrigel";"Dissected mesenchymal villous tissue of early pregnancy was arranged radially on 80 μl drops of growth-factor-reduced Matrigel™ (BD, Bedford, MA) in 24 well plates (SFM; DMEM:Ham's F12 (Gibco) 1:1, supplemented with 100 µg/ml streptomycin/penicillin (Gibco) and incubated for 4 hours at 37°C, 5% CO2 to allow attachment. Wells were then carefully flooded with 500 µl SFM, incubated at 37°C, 5% CO2 and subsequent growth characteristics were monitored by light microscopy. Total RNA or tissue sections were  prepared after 72 hours of incubation. "
+"GSM246494.CEL.gz";"GSM246494";"GSE9773";"placenta";"first trimester placental organ explants grown on matrigel";"Dissected mesenchymal villous tissue of early pregnancy was arranged radially on 80 μl drops of growth-factor-reduced Matrigel™ (BD, Bedford, MA) in 24 well plates (SFM; DMEM:Ham's F12 (Gibco) 1:1, supplemented with 100 µg/ml streptomycin/penicillin (Gibco) and incubated for 4 hours at 37°C, 5% CO2 to allow attachment. Wells were then carefully flooded with 500 µl SFM, incubated at 37°C, 5% CO2 and subsequent growth characteristics were monitored by light microscopy. Total RNA or tissue sections were  prepared after 72 hours of incubation. "
+"GSM307639.CEL.gz";"GSM307639";"GSE9773";"placenta";"first trimester placental organ explants grown on matrigel";"Dissected mesenchymal villous tissue of early pregnancy was arranged radially on 80 μl drops of growth-factor-reduced Matrigel™ (BD, Bedford, MA) in 24 well plates (SFM; DMEM:Ham's F12 (Gibco) 1:1, supplemented with 100 µg/ml streptomycin/penicillin (Gibco) and incubated for 4 hours at 37°C, 5% CO2 to allow attachment. Wells were then carefully flooded with 500 µl SFM, incubated at 37°C, 5% CO2 and subsequent growth characteristics were monitored by light microscopy. Total RNA or tissue sections were prepared after 72 hours of incubation. "
+"GSM307640.CEL.gz";"GSM307640";"GSE9773";"placenta";"first trimester placental organ explants grown on matrigel";"Dissected mesenchymal villous tissue of early pregnancy was arranged radially on 80 μl drops of growth-factor-reduced Matrigel™ (BD, Bedford, MA) in 24 well plates (SFM; DMEM:Ham's F12 (Gibco) 1:1, supplemented with 100 µg/ml streptomycin/penicillin (Gibco) and incubated for 4 hours at 37°C, 5% CO2 to allow attachment. Wells were then carefully flooded with 500 µl SFM, incubated at 37°C, 5% CO2 and subsequent growth characteristics were monitored by light microscopy. Total RNA or tissue sections were prepared after 72 hours of incubation. "
+"GSM307641.CEL.gz";"GSM307641";"GSE9773";"placenta";"first trimester placental organ explants grown on matrigel";"Dissected mesenchymal villous tissue of early pregnancy was arranged radially on 80 μl drops of growth-factor-reduced Matrigel™ (BD, Bedford, MA) in 24 well plates (SFM; DMEM:Ham's F12 (Gibco) 1:1, supplemented with 100 µg/ml streptomycin/penicillin (Gibco) and incubated for 4 hours at 37°C, 5% CO2 to allow attachment. Wells were then carefully flooded with 500 µl SFM, incubated at 37°C, 5% CO2 and subsequent growth characteristics were monitored by light microscopy. Total RNA or tissue sections were prepared after 72 hours of incubation"
